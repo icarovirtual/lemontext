@@ -1,0 +1,116 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "71dzrGdQze+kHUMmtDi+sg=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/content/theme.ts",
+      "hash": "5/+hx+2r+aXSWbc5roozJQ=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "oh7o9NREHR071Pd4pLWvbg=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "pWYCmCzqFrsVCqbywzQ2qA=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "Oj3lP8hXLCHAtEz9tABMfg=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "VlQ5amwcCip7DxA3iQUsjw=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "4aZ94+YhMjdrx+Zy3EkWOQ=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "o9w7YIU07lIZpebFJRCTQw=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "W1O4rKrlEixQtN+st2kp/w=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "QVuhssDdbyG3lfOXGxx96w=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "FWg7tE6tZ/nfHRwzZGRH8A=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "Wm2hSsSnBNdL/2d/uppLDg=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "QA+mq610YKKhyHcKcYH10A=="
+    },
+    {
+      "name": "zoomOnFormula",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js",
+      "hash": "8ZuQMR6e405U2A4bRJleRw=="
+    },
+    {
+      "name": "reloadOnChange",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/serve/reload.js",
+      "hash": "NSGVL8wEop5hu0do3tCBCQ=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "+K/jC5RAOACZ8YQij4AHKg=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "32YRLusQS2BM/8al4+GfwA=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "gC6f69UMw7EniJ6x4ADGfw=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "0dEGb0wdKhc4kZuaaEPz3Q=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "3p8ugGcl9k30E3YK+5HE0g=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "WX2jsp4/ahEkQp/BUwnfCw=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/Users/icaro/Code/codedoc/provide-iv/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "dh5EHG8th1RqqO9zQfj0kw=="
+  }
+}
