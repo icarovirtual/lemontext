@@ -16,7 +16,7 @@ export const config = /*#__PURE__*/configuration({
           `${guessTitle(content)} ${config.page.title.connector} ${config.page.title.base}`,
     },
     favicon: '/images/favico.png',
-    // TODO: Fill these but dinamically?
+    // TODO: Fill these but dynamically?
     meta: {
       // subject: undefined,
       // description: undefined,
@@ -31,6 +31,10 @@ export const config = /*#__PURE__*/configuration({
       large: true,
       standardIcon: true,
     },
+  },
+  dest: {
+    html: 'dist',
+    assets: 'dist',
   },
 
 });
