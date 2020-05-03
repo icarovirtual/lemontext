@@ -1,0 +1,111 @@
+{
+  "init": [
+    {
+      "name": "initJssCs",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/transport/setup-jss.js",
+      "hash": "KBk6o5J/zdWOYoTUXSh8Ig=="
+    },
+    {
+      "name": "installTheme",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/content/theme.ts",
+      "hash": "U5PuzLIfbAVyz2xlRT4eEw=="
+    },
+    {
+      "name": "codeSelection",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/selection.js",
+      "hash": "wJmiff/uggG2rsTRDDwviw=="
+    },
+    {
+      "name": "sameLineLengthInCodes",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/same-line-length.js",
+      "hash": "p6IrNxJWxJ6XW5OocS1PHQ=="
+    },
+    {
+      "name": "initHintBox",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-hint/index.js",
+      "hash": "wdHVxVIUqgmEit9ntOrZUg=="
+    },
+    {
+      "name": "initCodeLineRef",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/line-ref/index.js",
+      "hash": "Jb6nWF8LBg3x+AtMf736UA=="
+    },
+    {
+      "name": "initSmartCopy",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/code/smart-copy.js",
+      "hash": "2hfhobQMebwxkfDzFjV5Aw=="
+    },
+    {
+      "name": "copyHeadings",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/heading/copy-headings.js",
+      "hash": "EmFXoVszDMbtFvSzcDn2Wg=="
+    },
+    {
+      "name": "contentNavHighlight",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/contentnav/highlight.js",
+      "hash": "Rr3gfpiR+Dwo37VOYsRp6Q=="
+    },
+    {
+      "name": "loadDeferredIFrames",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/transport/deferred-iframe.js",
+      "hash": "pVMiFBMFiI4hktZYPLFXJg=="
+    },
+    {
+      "name": "smoothLoading",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/transport/smooth-loading.js",
+      "hash": "f1tqLQiMA8oTYvezcORdmA=="
+    },
+    {
+      "name": "tocHighlight",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toc-highlight.js",
+      "hash": "704rVEGH/o21KOQX3MtsHw=="
+    },
+    {
+      "name": "postNavSearch",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/search/post-nav/index.js",
+      "hash": "YcbxJoDEQJHgn2KI1hWN2g=="
+    },
+    {
+      "name": "zoomOnFormula",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/formula/zoom-on-formula.js",
+      "hash": "RLlqdQ198HoyFM2hT0CVQA=="
+    }
+  ],
+  "components": [
+    {
+      "name": "ToCPrevNext",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/prevnext/index.js",
+      "hash": "mIjZPfrv44KwLmmbAtBXOQ=="
+    },
+    {
+      "name": "CollapseControl",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/collapse/collapse-control.js",
+      "hash": "Jmh3XLrJ8kAGLGWkSHnECg=="
+    },
+    {
+      "name": "GithubSearch",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/misc/github/search.js",
+      "hash": "O8rsvssPM0vTPrWmkxEIYA=="
+    },
+    {
+      "name": "ToCToggle",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/page/toc/toggle/index.js",
+      "hash": "autDw/XuujSCLEDi2ezkSA=="
+    },
+    {
+      "name": "DarkModeSwitch",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/components/darkmode/index.js",
+      "hash": "dbrK6DPVOmfHV5xoQ9r4tQ=="
+    },
+    {
+      "name": "ConfigTransport",
+      "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/transport/config.js",
+      "hash": "+qA0Zw4hT3Z7dpdufv1Wsw=="
+    }
+  ],
+  "renderer": {
+    "name": "getRenderer",
+    "filename": "/home/runner/work/lemontext/lemontext/.codedoc/node_modules/@codedoc/core/dist/es6/transport/renderer.js",
+    "hash": "VBHjgwq75TUiaJcgqTLd/g=="
+  }
+}
