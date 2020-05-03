@@ -18,6 +18,8 @@ jobs:
           npm install @codedoc/cli
           # build repo
           (PATH=$(npm bin):$PATH && codedoc build)
+          # copy assets
+          cp images/ dist/images/
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
