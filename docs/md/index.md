@@ -1,4 +1,4 @@
-# Lemon Code - Home
+# Lemon Code
 
 For all of that extra juicy code snippets.
 
