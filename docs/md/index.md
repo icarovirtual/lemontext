@@ -1,6 +1,5 @@
 # Lemon Code
-
-For all of that extra juicy code snippets.
+<p data-meta="description">For all of that extra juicy code snippets</p>
 
 <p>
   <a title="Shout out to @devopsreatcions" href="http://devopsreactions.tumblr.com/post/109288736875/useful-code-snippet">

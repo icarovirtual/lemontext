@@ -1,5 +1,6 @@
 # Dynamic Attribute Provider - Django
-###### Published on May/20
+<p data-meta="description">You know the data is there, let's make it easier to get it</p>  
+<p data-meta="timestamp">Published on May/20</p>
 
 Honestly, sometimes I get tired of having to write "boilerplatish" code repeatedly in my projects because they are needed in to achieve very simple algorithm tasks that are used multiple times during development.  
 Examples of that involve retrieving and using: URL arguments, `GET` parameters and `cleaned_data` from a form.
